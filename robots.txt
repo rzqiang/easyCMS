@@ -1,0 +1,6 @@
+#
+# robots.txt
+#
+User-agent: * 
+Disallow: /App/Admin/
+Disallow: /App/Common/
